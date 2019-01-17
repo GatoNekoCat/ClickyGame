@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Nav from './components/Nav';
-import Container from './components/';
+import Container from './components/Container';
+import characters from './dbz.json';
 
 import './App.css';
 
