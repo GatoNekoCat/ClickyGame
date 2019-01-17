@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/f/f8/Base_Broly_Dokkan.png/revision/latest/window-crop/width/160/x-offset/0/y-offset/33/window-width/750/window-height/563?cb=20180820220608",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/5b/Gokusteppingoutofaspaceship.jpg/revision/latest/window-crop/width/160/x-offset/0/y-offset/29/window-width/391/window-height/293?cb=20150325220848",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/9/95/Universe_Mission_Goku.png/revision/latest/scale-to-width-down/180?cb=20180301003238",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/a/a2/Master_Roshi_Anime.jpg/revision/latest?cb=20170331075632",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/6/6b/Cheelai_art.png/revision/latest?cb=20180810152928",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/6/65/Frieza_DBZ_Ep_76_001.png/revision/latest?cb=20171003200511",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/8/83/Frieza_DBZ_Ep_85_002v2.png/revision/latest?cb=20170920193805",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/e/e1/Base_gogeta.jpg/revision/latest/window-crop/width/160/x-offset/161/y-offset/0/window-width/961/window-height/720?cb=20181129154755",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/56/Bardock_-_Bardock_Father_of_Goku_-_001.png/revision/latest/scale-to-width-down/350?cb=20181007090316",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/1/1b/Aruvillagebulma.png/revision/latest?cb=20110719070442",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/f/f5/Chi_Chi_Aura.jpg/revision/latest?cb=20180422024850",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/4/47/Good_Buu.png/revision/latest?cb=20170224202329",
+    "clicked": false
+  }
+]
