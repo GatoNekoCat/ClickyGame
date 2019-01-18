@@ -6,7 +6,6 @@ import Title from './components/Title';
 import Column from './components/Column';
 import DBZCard from './components/DBZCard';
 import Row from './components/Row';
-// import Card from './components/Card';
 
 import './App.css';
 
@@ -77,7 +76,7 @@ class App extends Component {
           </header>
           <Row fluid={true}>
             {this.state.characters.map(character =>
-              <Column size='lg-6'>
+              <Column size='md-3'>
                 <DBZCard
                   key={character.id}
                   clickEvent={this.clickEvent}
