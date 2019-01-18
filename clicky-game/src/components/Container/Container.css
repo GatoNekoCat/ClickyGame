@@ -1,15 +1,15 @@
-/* .container {
+.container {
     background: rgb(197, 113, 18);
     height: 100%;
     justify-content: space-around;
     display: flex;
     align-content: flex-start;
     flex-flow: row wrap;
-    flex-grow: 1;
+    /* flex-grow: 1; */
     padding-bottom: 50px;
     overflow: auto;
-  } */
-  .container {
+  }
+  /* .container {
     top: 0;
     left: 0;
     right: 0;
@@ -20,4 +20,4 @@
     background-image: url(https://media.giphy.com/media/gSxj0I2b2EMCc/giphy.gif);
     animation: animatedBackground 20s linear infinite,
                colorShift 5s linear infinite;
-  }
+  } */
